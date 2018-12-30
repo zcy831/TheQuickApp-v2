@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="group12.thequickapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="group12.thequickapp.controller.GridActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.DrawingActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.GetAppActivity"
+            android:label="@string/title_activity_get_app" >
+        </activity>
+        <activity
+            android:exported="true"
+            android:name="group12.thequickapp.controller.MainActivity"
+            android:label="@string/title_activity_first_page">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.GridSetActivity"
+            android:label="@string/title_activity_grid" >
+        </activity>
+
+        <service android:name="group12.thequickapp.controller.MyService" >
+        </service>
+
+        <receiver
+            android:name="group12.thequickapp.controller.MyReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="group12.thequickapp.controller.SoundSetActivity"
+            android:label="@string/title_activity_sound_set" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.GetSavedPatternActivity"
+            android:label="@string/title_activity_saved_pattern" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.NamingActivity"
+            android:label="@string/title_activity_naming" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.AudioRecordActivity"
+            android:label="@string/title_activity_audio_record" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.ViewSavedActivity"
+            android:label="@string/title_activity_view_saved" >
+        </activity>
+        <activity
+            android:name="group12.thequickapp.controller.DrawSettingActivity"
+            android:label="@string/title_activity_draw" >
+        </activity>
+    </application>
+
+</manifest>

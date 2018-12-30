@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chengyuan/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/664cfb10c481973acf624afd30f3a977/AndroidManifest.xml:14:4-17:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:10:5-11:23
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:15:9-61
+application
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:18:5-84:19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chengyuan/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/664cfb10c481973acf624afd30f3a977/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chengyuan/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/664cfb10c481973acf624afd30f3a977/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:22:9-40
+activity#group12.thequickapp.controller.GridActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:24:13-71
+activity#group12.thequickapp.controller.DrawingActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:28:13-74
+activity#group12.thequickapp.controller.GetAppActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:32:13-73
+activity#group12.thequickapp.controller.MainActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:38:13-62
+	android:exported
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:37:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:41:27-74
+activity#group12.thequickapp.controller.GridSetActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:45:13-74
+service#group12.thequickapp.controller.MyService
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:49:9-50:19
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:49:18-73
+receiver#group12.thequickapp.controller.MyReceiver
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:52:9-58:20
+	android:enabled
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:54:13-35
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:53:13-69
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:55:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:56:25-76
+activity#group12.thequickapp.controller.SoundSetActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:62:13-61
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:61:13-75
+activity#group12.thequickapp.controller.GetSavedPatternActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:65:13-82
+activity#group12.thequickapp.controller.NamingActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:70:13-58
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:69:13-73
+activity#group12.thequickapp.controller.AudioRecordActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:74:13-64
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:73:13-78
+activity#group12.thequickapp.controller.ViewSavedActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:78:13-62
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:77:13-76
+activity#group12.thequickapp.controller.DrawSettingActivity
+ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml:81:13-78
+uses-sdk
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chengyuan/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/664cfb10c481973acf624afd30f3a977/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/chengyuan/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/664cfb10c481973acf624afd30f3a977/AndroidManifest.xml:15:5-42
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/AndroidManifest.xml

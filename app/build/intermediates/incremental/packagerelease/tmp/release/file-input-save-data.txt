@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Dec 30 01:43:50 PST 2018
+0.baseType=DIRECTORY
+0.base=/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

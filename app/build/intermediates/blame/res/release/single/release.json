@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_audio_record.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/audio_record.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_simpleimage.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/simpleimage.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_draw_or_grid.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/draw_or_grid.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_naming.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/naming.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_bg2.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/bg2.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_sound.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/sound.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_roundedbuttonblue.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/roundedbuttonblue.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_app_name_icon.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/app_name_icon.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_error.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_unselected.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/unselected.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_appname.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/appname.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_grid.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_grid.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_draw.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/draw.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_sound_set.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/sound_set.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_delete.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_link.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/link.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_roundedbuttongreen.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/roundedbuttongreen.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_simplerow.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/simplerow.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_sound_set.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_sound_set.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_draw_or_grid.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_draw_or_grid.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_roundedbuttonblack.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/roundedbuttonblack.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_saved_pattern.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/saved_pattern.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_naming.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_naming.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_bg1.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/bg1.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_element_in_saved.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/element_in_saved.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_bg3.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/bg3.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_grid.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/grid.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-mdpi_btn_round.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-mdpi/btn_round.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_audio_record.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_audio_record.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_roundedbuttonred.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/roundedbuttonred.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_saved_pattern.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_saved_pattern.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/menu_main.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_view_saved.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_view_saved.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_get_app.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_get_app.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/layout_activity_no_database_found.xml.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/layout/activity_no_database_found.xml"
+    },
+    {
+        "merged": "/Users/chengyuan/StudioProjects/TheQuickApp/app/build/intermediates/res/merged/release/drawable-hdpi_xiao.png.flat",
+        "source": "/Users/chengyuan/StudioProjects/TheQuickApp/app/src/main/res/drawable-hdpi/xiao.png"
+    }
+]
